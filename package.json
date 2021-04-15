@@ -1,6 +1,6 @@
 {
   "name": "material-icons-fontface",
-  "version": "47.0.0",
+  "version": "55.0.0",
   "description": "A package with the latest material icon definitions fetched from the Google Fonts CDN.",
   "main": " ",
   "scripts": {
